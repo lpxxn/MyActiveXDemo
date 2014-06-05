@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PERA.WORDHELPER", "MyActiveXDemo\PERA.WORDHELPER.csproj", "{F12E875E-A163-4051-B568-F8B78E2170CB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WordToHTMLF", "Setup1\Setup1.vdproj", "{455BE064-67E1-4573-96B6-75BA6476D51D}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F12E875E-A163-4051-B568-F8B78E2170CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F12E875E-A163-4051-B568-F8B78E2170CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F12E875E-A163-4051-B568-F8B78E2170CB}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{F12E875E-A163-4051-B568-F8B78E2170CB}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{F12E875E-A163-4051-B568-F8B78E2170CB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F12E875E-A163-4051-B568-F8B78E2170CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F12E875E-A163-4051-B568-F8B78E2170CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F12E875E-A163-4051-B568-F8B78E2170CB}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{F12E875E-A163-4051-B568-F8B78E2170CB}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{F12E875E-A163-4051-B568-F8B78E2170CB}.Release|x86.ActiveCfg = Release|Any CPU
+		{455BE064-67E1-4573-96B6-75BA6476D51D}.Debug|Any CPU.ActiveCfg = Debug
+		{455BE064-67E1-4573-96B6-75BA6476D51D}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{455BE064-67E1-4573-96B6-75BA6476D51D}.Debug|Mixed Platforms.Build.0 = Debug
+		{455BE064-67E1-4573-96B6-75BA6476D51D}.Debug|x86.ActiveCfg = Debug
+		{455BE064-67E1-4573-96B6-75BA6476D51D}.Debug|x86.Build.0 = Debug
+		{455BE064-67E1-4573-96B6-75BA6476D51D}.Release|Any CPU.ActiveCfg = Release
+		{455BE064-67E1-4573-96B6-75BA6476D51D}.Release|Mixed Platforms.ActiveCfg = Release
+		{455BE064-67E1-4573-96B6-75BA6476D51D}.Release|Mixed Platforms.Build.0 = Release
+		{455BE064-67E1-4573-96B6-75BA6476D51D}.Release|x86.ActiveCfg = Release
+		{455BE064-67E1-4573-96B6-75BA6476D51D}.Release|x86.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
